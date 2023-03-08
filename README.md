@@ -48,9 +48,13 @@ org.fashionatte.de
 
 
 -> Need to install java [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
 ->Needed to [install Eclipse](https://www.eclipse.org/downloads/)
+
 ->Download [this Repository](https://github.com/Rajesh-medipally/POMProjectSample)
+
 ->open the project in eclipse and complete the sync procedure
+
 ->in eclipse goto Help->Eclipse MarketPlace and search for testng for eclipse it looks like below
 ![eclipse](https://user-images.githubusercontent.com/52613470/223594455-d0153b47-004a-4d00-bb05-2fa28863270e.png)
 
