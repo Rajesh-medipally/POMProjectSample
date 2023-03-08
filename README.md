@@ -46,25 +46,25 @@ org.fashionatte.de
 
 ## Folders Details
 
--> src/test/java/org/fashionatte/de/PageObjects contains all the pages elements and its corresponding methods, which let us to use the elements efficieantly like get, set etc...
+-> src/test/java/org/fashionatte/de/PageObjects : contains all the pages elements and its corresponding methods, which let us to use the elements efficieantly like get, set etc...
 
--> src/test/java/org/fashionatte/de/testCases this folder contains the test classes, where we perform the automation testing of the application.
+-> src/test/java/org/fashionatte/de/testCases : this folder contains the test classes, where we perform the automation testing of the application.
 
--> src/test/java/org/fashionatte/de/utilities this folder contains all the supporting classes for automation, like, to read from excel, to read from configuration file, to set a listener etc...
+-> src/test/java/org/fashionatte/de/utilities : this folder contains all the supporting classes for automation, like, to read from excel, to read from configuration file, to set a listener etc...
 
--> src/test/java/org/fashionatte/de/testData this folder contains all the test data excel files used for testing. in our case we have only one excel sheet to test  different logins.
+-> src/test/java/org/fashionatte/de/testData : this folder contains all the test data excel files used for testing. in our case we have only one excel sheet to test  different logins.
 
--> Configurations this folder contains meta data about application and most used details inside the project.
+-> Configurations : this folder contains meta data about application and most used details inside the project.
 
--> Screenshots this folder as it suggests contains the failed and succeeded screenshots of the execution.
+-> Screenshots : this folder as it suggests contains the failed and succeeded screenshots of the execution.
 
--> test-reports this folder contains generated reports of the application, with the time frame and date as folder name, also it generate each one separately for every different test class.
+-> test-reports : this folder contains generated reports of the application, with the time frame and date as folder name, also it generate each one separately for every different test class.
 
--> application.log this folder contains the log files of the execution.
+-> application.log : this folder contains the log files of the execution.
 
--> pom.xml this is a common file, where we can handle the packages needed for project.
+-> pom.xml : this is a common file, where we can handle the packages needed for project.
 
--> testng.xml this folder contains the test suite details. 
+-> testng.xml  : this folder contains the test suite details. 
 
 
 
@@ -100,7 +100,9 @@ the report looks like below picture
 
 
 -> To see the screenshots separatly goto screenshots folder, where you can find successfull and failure test folder accordingly.
+
 -> For the log files open application.log file, there you can read the recent log files of execution.
+
 -> to see selenium report test-output-> index.html
 
 
