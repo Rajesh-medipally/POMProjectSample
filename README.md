@@ -53,6 +53,6 @@ org.fashionatte.de
 ## Step 5: in eclipse goto Help->Eclipse MarketPlace
             and search for testng for eclipse
             it looks like below
-            
-         ![ss1](https://user-images.githubusercontent.com/52613470/223594455-d0153b47-004a-4d00-bb05-2fa28863270e.png)
+
+         ![eclipse](https://user-images.githubusercontent.com/52613470/223594455-d0153b47-004a-4d00-bb05-2fa28863270e.png)
 
