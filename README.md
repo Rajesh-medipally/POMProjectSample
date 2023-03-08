@@ -1,5 +1,5 @@
 # POMProjectSample
-# Fashinette.de application automation sample project
+# Fashionette.de application automation sample project
 This Repository is a sample work for the company fashionatte.de 
 it includes the automation of fashionette.de website. 
 where it includes automation procedures like adding item into cart and loggin into the application.
