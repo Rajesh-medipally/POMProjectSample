@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Fashionatte Sample Test">
+
+<listeners>
+<listener class-name= "org.fashionatte.de.utilities.ReportListener"/>
+
+</listeners>
+
+
+	<test name="ADD ITEM TO CART">
+		<parameter name="browser" value="chrome"/>
+		<classes>
+		<class name="org.fashionatte.de.testCases.RandomAddToCartTest"/>		
+		<class name ="org.fashionatte.de.testCases.LoginTest"/>
+		
+		</classes>	
+	</test>
+
+
+
+
+</suite>
+
+

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T01:43:26 CET" name="Fashionatte Sample Test" finished-at="2023-03-08T01:43:54 CET" duration-ms="28520">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T01:43:26 CET" name="ADD ITEM TO CART" finished-at="2023-03-08T01:43:54 CET" duration-ms="28520">
+      <class name="org.fashionatte.de.testCases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:40 CET" name="setUp" finished-at="2023-03-08T01:43:42 CET" duration-ms="2729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:42 CET" name="setup" finished-at="2023-03-08T01:43:44 CET" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:45 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:45 CET" duration-ms="831" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:46 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:46 CET" duration-ms="806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:46 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:48 CET" duration-ms="1382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456789@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:48 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:49 CET" duration-ms="806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr112909]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tytUreg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:49 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:50 CET" duration-ms="1281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd@ghh.co]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dhlsk23$"!jdlfjd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:50 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:53 CET" duration-ms="2223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QA@fashionette.de]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[!8Ntr*BM@!#G3VH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:53 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:53 CET" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:53 CET" name="login" data-provider="LoginData" finished-at="2023-03-08T01:43:53 CET" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.fashionatte.de.testCases.LoginTest@6c6cb480]" started-at="2023-03-08T01:43:53 CET" name="tearDown" finished-at="2023-03-08T01:43:54 CET" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.fashionatte.de.testCases.LoginTest -->
+      <class name="org.fashionatte.de.testCases.RandomAddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:26 CET" name="setUp" finished-at="2023-03-08T01:43:29 CET" duration-ms="3063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:29 CET" name="setup" finished-at="2023-03-08T01:43:29 CET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterIntoHomePage()[pri:0, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:29 CET" name="enterIntoHomePage" finished-at="2023-03-08T01:43:30 CET" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterIntoHomePage -->
+        <test-method signature="searchForItem()[pri:1, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:31 CET" name="searchForItem" finished-at="2023-03-08T01:43:33 CET" duration-ms="2041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForItem -->
+        <test-method signature="completeAnItemsSelectionProcess()[pri:2, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:33 CET" name="completeAnItemsSelectionProcess" finished-at="2023-03-08T01:43:34 CET" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeAnItemsSelectionProcess -->
+        <test-method signature="selectItemsRequirements()[pri:3, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:34 CET" name="selectItemsRequirements" finished-at="2023-03-08T01:43:35 CET" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItemsRequirements -->
+        <test-method signature="completeVoucherProcess()[pri:4, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:37 CET" name="completeVoucherProcess" finished-at="2023-03-08T01:43:38 CET" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeVoucherProcess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.fashionatte.de.testCases.RandomAddToCartTest@175c2241]" started-at="2023-03-08T01:43:38 CET" name="tearDown" finished-at="2023-03-08T01:43:40 CET" duration-ms="1563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.fashionatte.de.testCases.RandomAddToCartTest -->
+    </test> <!-- ADD ITEM TO CART -->
+  </suite> <!-- Fashionatte Sample Test -->
+</testng-results>
