@@ -47,7 +47,7 @@ org.fashionatte.de
 ## Run Configurations.
 
 ## Step 1: 
-Need to install java [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+-> Need to install java [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 ## Step 2:
 Needed to [install Eclipse](https://www.eclipse.org/downloads/)
 ## Step 3: 
